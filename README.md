@@ -11,7 +11,7 @@ With over 25 years of experience in computer science and hands-on IT operations,
 
 | Skill                                                       ----  | Associated Project         |
 |-------------------------------------------------------------------|----------------------------|
-| Enterprise Network Segmentation & ASA Firewall Integration lab    | <a href="https://google.com">Network Segmentation</a>|
+| Enterprise Network Segmentation & ASA Firewall Integration lab    | <a href="https://github.com/hmiezan/Enterprise-Network-Segmentation-ASA-Firewall-Integration-Lab/blob/main/README.md">Network Segmentation</a>|
 | LAPS (Local Administrator Password Solution) implementation       |<a href="https://google.com">LAPS</a>
 
 
@@ -20,8 +20,7 @@ With over 25 years of experience in computer science and hands-on IT operations,
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<img src="https://img.shields.io/badge/-SolarWinds-777BB4?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
 </div>
 
 ### Cloud
@@ -53,5 +52,5 @@ With over 25 years of experience in computer science and hands-on IT operations,
 </div>
 
 ## Projects
-- Enterprise Network Segmentation & ASA Firewall Integration Home Lab
+- <a href="https://github.com/hmiezan/Enterprise-Network-Segmentation-ASA-Firewall-Integration-Lab/blob/main/README.md">Enterprise Network Segmentation & ASA Firewall Integration </a>
 - LAPS (Local Administrator Password Solution) implementation
