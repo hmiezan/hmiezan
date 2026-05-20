@@ -14,7 +14,7 @@ With over 25 years of experience in computer science and hands-on IT operations,
 | Enterprise Network Segmentation & ASA Firewall Integration lab    | <a href="https://github.com/hmiezan/Enterprise-Network-Segmentation-ASA-Firewall-Integration-Lab/blob/main/README.md">Network Segmentation</a>|
 | Domain-Controller-Hardening-Project                               |<a href="https://github.com/hmiezan/Domain-Controller-Hardening-Project">Domain-Controller-Hardening-Project</a>|
 | LAPS (Local Administrator Password Solution) implementation       |<a href="https://google.com">LAPS</a>|
-| Active-Directory-High-Availability-Deployment-Validation          |<a href="https://github.com/hmiezan/Active-Directory-High-Availability-Deployment-Validation">AD High Availability-Deployment-Validation</a>|
+| Active-Directory-High-Availability-Deployment-Validation          |<a href="https://github.com/hmiezan/Active-Directory-High-Availability-Deployment-Validation">DC High Availability-Deployment-Validation</a>|
 | Reconnaissance-Detection-in-SecurityOnion-SOC-Lab                 |<a href="https://github.com/hmiezan/Reconnaissance-Detection-in-SecurityOnion-SOC-Lab">Reconnaissance-Detection-in-SecurityOnion-SOC-Lab</a>|
 
 
