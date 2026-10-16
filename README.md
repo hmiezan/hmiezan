@@ -16,6 +16,8 @@ With over 25 years of experience in computer science and hands-on IT operations,
 | LAPS (Local Administrator Password Solution) implementation       |<a href="https://google.com">LAPS</a>|
 | Active-Directory-High-Availability-Deployment-Validation          |<a href="https://github.com/hmiezan/Active-Directory-High-Availability-Deployment-Validation">DC High Availability-Deployment-Validation</a>|
 | Reconnaissance-Detection-in-SecurityOnion-SOC-Lab                 |<a href="https://github.com/hmiezan/Reconnaissance-Detection-in-SecurityOnion-SOC-Lab">Reconnaissance-Detection-in-SecurityOnion-SOC-Lab</a>|
+| DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">Security On Premise AD server using DUO Security</a>|
+
 
 
 
