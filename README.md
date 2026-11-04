@@ -19,6 +19,10 @@ With over 25 years of experience in computer science and hands-on IT operations,
 | DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">Security On Premise AD server using DUO Security</a>|
 
 
+## Soc-Mini Project 
+
+| Project                                                      ----  | Associated Project         |
+| LAB-01-Password-Spray                                              | |
 
 
 ## Tools
