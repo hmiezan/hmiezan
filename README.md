@@ -22,7 +22,8 @@ With over 25 years of experience in computer science and hands-on IT operations,
 ## Soc-Mini Project 
 
 | Project                                                      ----  | Associated Project         |
-| LAB-01-Password-Spray                                              | |
+|--------------------------------------------------------------------|----------------------------|
+| LAB-01-Password-Spray                                              |<a href="https://github.com/hmiezan/Soc-Lab-Portfolio#lab-01---windows-password-spray-investigation">LAB-01-Password-Spray  </a>|
 
 
 ## Tools
