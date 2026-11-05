@@ -23,7 +23,7 @@ With over 25 years of experience in computer science and hands-on IT operations,
 
 | Project                                                      ----  | Associated Project         |
 |--------------------------------------------------------------------|----------------------------|
-| LAB-01-Password-Spray                                              |<a href="[Lab#1 BRute Force Spraying attac](https://github.com/hmiezan/Soc-Lab-Portfolio/blob/main/Lab%231%20BRute%20Force%20Spraying%20attack)k">LAB-01-Password-Spray  </a>|
+| LAB-01-Password-Spray                                              |<a href="https://github.com/hmiezan/Soc-Lab-Portfolio/blob/cd2934f84d9398c33fcbc122503f5eafca20ed21/Lab%231.md">LAB-01-Password-Spray  </a>|
 
 
 ## Tools
