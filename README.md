@@ -5,7 +5,7 @@ Experienced and results-driven IT specialist with hands-on expertise in network 
 
 ## Objective
 
-With over 25 years of experience in computer science and hands-on IT operations, I have built a strong foundation in systems administration, network management, and technical troubleshooting. Throughout my career, I have developed a deep passion for cybersecurity—driven by my commitment to protecting systems, data, and users in an increasingly complex digital landscape. I am now focused on transitioning into cybersecurity, with a clear goal of joining a Security Analyst.
+With over 20 years of experience in computer science and hands-on IT operations, I have built a strong foundation in systems administration, network management, and technical troubleshooting. Throughout my career, I have developed a deep passion for cybersecurity—driven by my commitment to protecting systems, data, and users in an increasingly complex digital landscape. I am now focused on transitioning into cybersecurity, with a clear goal of joining a Security Analyst.
 
 ## Skills
 
