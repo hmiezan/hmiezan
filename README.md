@@ -19,12 +19,13 @@ With over 20 years of experience in computer science and hands-on IT operations,
 | DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">Security On Premise AD server using DUO Security</a>|
 
 
-## Soc-Mini Project 
+## SOC-Investigation Project 
 
 | Project                                                      ----  | Associated Project         |
 |--------------------------------------------------------------------|----------------------------|
-| LAB-01-Password-Spray                                              |<a href="https://github.com/hmiezan/Soc-Lab-Portfolio/blob/cd2934f84d9398c33fcbc122503f5eafca20ed21/Lab%231.md">LAB-01-Password-Spray  </a>|
-| LAB-02-Network access Discovery                                    |<a href="https://github.com/hmiezan/lab2--SOC-Investigation--Post-Compromise-SMB-Share-Discovery">LAB-02-Discovery </a>|
+| SOC-01-Password-Spray                                              |<a href="https://github.com/hmiezan/Soc-Lab-Portfolio/blob/cd2934f84d9398c33fcbc122503f5eafca20ed21/Lab%231.md">LAB-01-Password-Spray  </a>|
+| SOC-02-Network access Discovery                                    |<a href="https://github.com/hmiezan/lab2--SOC-Investigation--Post-Compromise-SMB-Share-Discovery">LAB-02-Discovery </a>|
+| SOC-03-PowerShell-Discovery                                        |<a href="https://github.com/hmiezan/SOC-03-PowerShell-Discovery">LAB-03-PowerShell-Recon </a>|
 
 
 ## Tools
