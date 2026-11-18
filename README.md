@@ -8,20 +8,31 @@ Experienced and results-driven IT specialist with hands-on expertise in network 
 With over 20 years of experience in IT Operations, Systems Administration, Network Infrastructure, and Technical Support, I have developed a strong foundation in managing and securing enterprise environments.
 My current focus is Security Operations, Threat Detection, and Incident Response. Through hands-on projects and SOC investigations using Security Onion, Elastic SIEM, Windows, Active Directory, and Kali Linux, I continue building practical cybersecurity experience while leveraging my operational background.
 
-## Skills
+##  Infrastructure & IT Operations Projects 🏗
 
-| Skill                                                       ----  | Associated Project         |
+|Project                                                       ---- | Associated Project         |
 |-------------------------------------------------------------------|----------------------------|
-| Enterprise Network Segmentation & ASA Firewall Integration lab    | <a href="https://github.com/hmiezan/Enterprise-Network-Segmentation-ASA-Firewall-Integration-Lab/blob/main/README.md">Network Segmentation</a>|
-| Domain-Controller-Hardening-Project                               |<a href="https://github.com/hmiezan/Domain-Controller-Hardening-Project">Domain-Controller-Hardening-Project</a>|
-| LAPS (Local Administrator Password Solution) implementation       |<a href="https://google.com">LAPS</a>|
-| Active-Directory-High-Availability-Deployment-Validation          |<a href="https://github.com/hmiezan/Active-Directory-High-Availability-Deployment-Validation">DC High Availability-Deployment-Validation</a>|
+| Enterprise Network Segmentation & ASA Firewall Integration lab    | <a href="https://github.com/hmiezan/Enterprise-Network-Segmentation-ASA-Firewall-Integration-Lab/blob/main/README.md">Cisco ASA</a>|
+| Domain-Controller-Hardening-Project                               |<a href="https://github.com/hmiezan/Domain-Controller-Hardening-Project">Active Directory</a>|
+| LAPS (Local Administrator Password Solution) implementation       |<a href="https://google.com">Windows Security</a>|
+| Active-Directory-High-Availability-Deployment-Validation          |<a href="https://github.com/hmiezan/Active-Directory-High-Availability-Deployment-Validation">Windows Server</a>|
 | Reconnaissance-Detection-in-SecurityOnion-SOC-Lab                 |<a href="https://github.com/hmiezan/Reconnaissance-Detection-in-SecurityOnion-SOC-Lab">Reconnaissance-Detection-in-SecurityOnion-SOC-Lab</a>|
-| DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">Security On Premise AD server using DUO Security</a>|
+| DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">Identity & Access Management</a>|
 
 
 ## 📂 Featured Portfolio
 <a href="https://github.com/hmiezan/Soc-Lab-Portfolio">SOC-Investigation Portfolio</a>
+
+## Career Focus
+
+Seeking opportunities in:
+
+- Security Operations Center (SOC)
+- Incident Response
+- Security Analyst
+- Cybersecurity Operations
+- Infrastructure Security
+
 
 ## Tools
 
