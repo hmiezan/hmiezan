@@ -7,6 +7,18 @@ Experienced IT professional with over 20 years of hands-on experience supporting
 My background spans Active Directory, Windows Server, networking, virtualization, endpoint management, and enterprise troubleshooting. Over the years, I have developed a strong passion for cybersecurity and now focus on Security Operations, Threat Detection, Incident Response, and Infrastructure Security.
 
 I continuously expand my skills through hands-on projects, SOC investigations, and home lab environments designed to simulate real-world enterprise scenarios.
+
+## 🎯 Career Focus
+
+Currently pursuing opportunities in:
+
+- Security Operations Center (SOC)
+- Security Analyst
+- Incident Response
+- Cybersecurity Operations
+- Infrastructure Security
+- Systems & Security Administration
+
 ##  Infrastructure & IT Operations Projects 🏗
 
 |Project                                                       ---- | Associated Project         |
@@ -21,17 +33,6 @@ I continuously expand my skills through hands-on projects, SOC investigations, a
 
 ## 📂 Featured Portfolio
 <a href="https://github.com/hmiezan/Soc-Lab-Portfolio">SOC-Investigation Portfolio</a>
-
-## Career Focus
-
-Seeking opportunities in:
-
-- Security Operations Center (SOC)
-- Incident Response
-- Security Analyst
-- Cybersecurity Operations
-- Infrastructure Security
-
 
 ## Tools
 
