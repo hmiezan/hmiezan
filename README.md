@@ -1,13 +1,12 @@
-# Hello, I'm Herve Miezan
-<a href="https://linkedin.com\in\hervé-miezan-3b165aa4"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Hervé Miezan 👋
 
-Experienced and results-driven IT specialist with hands-on expertise in network administration, server infrastructure,Helpdesk support and cybersecurity. Proven ability to design,manage and secure enterprise-level systems, troubleshoot issues.
+## IT Infrastructure & Cybersecurity Professional
 
-## Professional Summary
+Experienced IT professional with over 20 years of hands-on experience supporting enterprise environments across systems administration, network infrastructure, technical support, and cybersecurity.
 
-With over 20 years of experience in IT Operations, Systems Administration, Network Infrastructure, and Technical Support, I have developed a strong foundation in managing and securing enterprise environments.
-My current focus is Security Operations, Threat Detection, and Incident Response. Through hands-on projects and SOC investigations using Security Onion, Elastic SIEM, Windows, Active Directory, and Kali Linux, I continue building practical cybersecurity experience while leveraging my operational background.
+My background spans Active Directory, Windows Server, networking, virtualization, endpoint management, and enterprise troubleshooting. Over the years, I have developed a strong passion for cybersecurity and now focus on Security Operations, Threat Detection, Incident Response, and Infrastructure Security.
 
+I continuously expand my skills through hands-on projects, SOC investigations, and home lab environments designed to simulate real-world enterprise scenarios.
 ##  Infrastructure & IT Operations Projects 🏗
 
 |Project                                                       ---- | Associated Project         |
