@@ -31,7 +31,17 @@ Currently pursuing opportunities in:
 | DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">	MFA & Identity Security & Access Management</a>|
 
 
-## 📂 SOC Investigation PortFolio
+## 🔍 SOC Investigation PortFolio
+Hands-on SOC investigations performed using:
+
+- Security Onion
+- Elastic SIEM
+- Windows 11
+- Active Directory
+- Kali Linux
+- MITRE ATT&CK Framework
+
+📂 **Portfolio Repository**
 <a href="https://github.com/hmiezan/Soc-Lab-Portfolio">SOC-Investigation Portfolio</a>
 
 ## 💻 Core Technical Skills
@@ -60,9 +70,9 @@ Currently pursuing opportunities in:
 ### Security Technologies
 
 - DUO Security
+- Crowdstrike
 - Sysmon
 - Elastic Agent
-- Microsoft Defender
 - Wazuh
 
 ---
