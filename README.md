@@ -31,34 +31,41 @@ Currently pursuing opportunities in:
 | DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">	MFA & Identity Security & Access Management</a>|
 
 
-## 📂 Featured Portfolio
+## 📂 SOC Investigation PortFolio
 <a href="https://github.com/hmiezan/Soc-Lab-Portfolio">SOC-Investigation Portfolio</a>
 
-## Tools
+## 💻 Core Technical Skills
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-SolarWinds-777BB4?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
-</div>
+### Infrastructure
 
-### Cloud
-<div>
-  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logoColor=white" />
-</div>
+- Active Directory
+- Windows Server
+- Group Policy
+- DNS / DHCP
+- VMware
+- Proxmox
+- Microsoft 365
+- Cisco ASA
 
+### Security Operations
 
-### Endpoint
-<div>
-<img src="https://img.shields.io/badge/-Endpoint%20Central-006400?&style=for-the-badge&logoColor=white" />
-</div>
+- Security Onion
+- Elastic SIEM
+- Threat Hunting
+- MITRE ATT&CK
+- Incident Response
+- IOC Development
+- Windows Event Log Analysis
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security_Onion-5A2D82?&style=for-the-badge&logo=security-onion&logoColor=white" />
-</div>
+### Security Technologies
 
+- DUO Security
+- Sysmon
+- Elastic Agent
+- Microsoft Defender
+- Wazuh
+
+---
 ## Certifications
 
 <div>
