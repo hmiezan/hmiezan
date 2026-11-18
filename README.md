@@ -19,7 +19,8 @@ With over 20 years of experience in computer science and hands-on IT operations,
 | DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">Security On Premise AD server using DUO Security</a>|
 
 
-## SOC-Investigation Project 
+## SOC-Investigation Portfolio 
+End-to-end SOC investigations using Security Onion, Elastic SIEM, Windows, Active Directory, and MITRE ATT&CK.
 
 | Project                                                      ----  | Associated Project         |
 |--------------------------------------------------------------------|----------------------------|
