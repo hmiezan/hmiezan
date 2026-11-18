@@ -23,12 +23,12 @@ Currently pursuing opportunities in:
 
 |Project                                                       ---- | Associated Project         |
 |-------------------------------------------------------------------|----------------------------|
-| Enterprise Network Segmentation & ASA Firewall Integration lab    | <a href="https://github.com/hmiezan/Enterprise-Network-Segmentation-ASA-Firewall-Integration-Lab/blob/main/README.md">Cisco ASA</a>|
-| Domain-Controller-Hardening-Project                               |<a href="https://github.com/hmiezan/Domain-Controller-Hardening-Project">Active Directory</a>|
-| LAPS (Local Administrator Password Solution) implementation       |<a href="https://google.com">Windows Security</a>|
-| Active-Directory-High-Availability-Deployment-Validation          |<a href="https://github.com/hmiezan/Active-Directory-High-Availability-Deployment-Validation">Windows Server</a>|
-| Reconnaissance-Detection-in-SecurityOnion-SOC-Lab                 |<a href="https://github.com/hmiezan/Reconnaissance-Detection-in-SecurityOnion-SOC-Lab">Reconnaissance-Detection-in-SecurityOnion-SOC-Lab</a>|
-| DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">Identity & Access Management</a>|
+| Enterprise Network Segmentation & ASA Firewall Integration lab    | <a href="https://github.com/hmiezan/Enterprise-Network-Segmentation-ASA-Firewall-Integration-Lab/blob/main/README.md">Cisco ASA, Network Security</a>|
+| Domain-Controller-Hardening-Project                               |<a href="https://github.com/hmiezan/Domain-Controller-Hardening-Project">Active Directory Security</a>|
+| LAPS (Local Administrator Password Solution) implementation       |<a href="https://google.com">Privileged Access Management</a>|
+| Active-Directory-High-Availability-Deployment-Validation          |<a href="https://github.com/hmiezan/Active-Directory-High-Availability-Deployment-Validation">Identity Infrastructure</a>|
+| Reconnaissance-Detection-in-SecurityOnion-SOC-Lab                 |<a href="https://github.com/hmiezan/Reconnaissance-Detection-in-SecurityOnion-SOC-Lab">Threat Detection</a>|
+| DUO Security enforcement for on premise Windows Server            |<a href="https://github.com/hmiezan/Security-AD-server-with-DUO">	MFA & Identity Security & Access Management</a>|
 
 
 ## 📂 Featured Portfolio
